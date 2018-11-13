@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1658 341 1280 5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e01c2f;
+      }
+
+      .cls-2 {
+        fill: #b34b87;
+      }
+
+      .cls-3 {
+        fill: #62a777;
+      }
+
+      .cls-4 {
+        fill: #63c7f2;
+      }
+
+      .cls-5 {
+        fill: #52bfd1;
+      }
+
+      .cls-6 {
+        fill: #fdc50a;
+      }
+
+      .cls-7 {
+        fill: #6a3a8c;
+      }
+
+      .cls-8 {
+        fill: #c22927;
+      }
+
+      .cls-9 {
+        fill: #0095c9;
+      }
+
+      .cls-10 {
+        fill: #8cbf32;
+      }
+    </style>
+  </defs>
+  <g id="Group_68" data-name="Group 68" transform="translate(1658 341)">
+    <rect id="XMLID_34_" class="cls-1" width="128.157" height="5"/>
+    <rect id="XMLID_33_" class="cls-2" width="128.157" height="5" transform="translate(127.982)"/>
+    <rect id="XMLID_32_" class="cls-3" width="128.157" height="5" transform="translate(255.966)"/>
+    <rect id="XMLID_31_" class="cls-4" width="128.157" height="5" transform="translate(383.948)"/>
+    <rect id="XMLID_30_" class="cls-5" width="128.157" height="5" transform="translate(511.932)"/>
+    <rect id="XMLID_29_" class="cls-6" width="128.157" height="5" transform="translate(639.914)"/>
+    <rect id="XMLID_28_" class="cls-7" width="128.157" height="5" transform="translate(767.896)"/>
+    <rect id="XMLID_27_" class="cls-8" width="128.157" height="5" transform="translate(895.88)"/>
+    <rect id="XMLID_26_" class="cls-9" width="128.157" height="5" transform="translate(1023.862)"/>
+    <rect id="XMLID_25_" class="cls-10" width="128.157" height="5" transform="translate(1151.843)"/>
+  </g>
+</svg>

@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elite Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-16 19:00+0000\n"
+"PO-Revision-Date: 2018-09-04 12:51+0000\n"
+"Last-Translator: elite_administrator <info@elite.kz>\n"
+"Language-Team: Қазақ тілі\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: category-news.php:11 footer.php:8 index.php:148 test-video.php:148 single/single-cat-news.php:13
+msgid "новости"
+msgstr "ЖАҢАЛЫҚТАР"
+
+#: category-platforma.php:8
+msgid "platforma"
+msgstr ""
+
+#: category-platforma.php:12 category-platforma.php:18 category-platforma.php:24
+msgid "Преимущества работы"
+msgstr "«Платформамен» жұмыс істеудің артықшылықтары"
+
+#: category-platforma.php:12 category-platforma.php:18 category-platforma.php:24
+msgid "с «платформой»"
+msgstr "-"
+
+#: category-platforma.php:13 category-platforma.php:19 category-platforma.php:25
+msgid "Все кандидаты, представленые у нас, находятся в активном поиске работы."
+msgstr "Бізде ұсынылған  барлық үміткерлер,  жұмыстарды белсенді іздестіруде. "
+
+#: category-platforma.php:13 category-platforma.php:19 category-platforma.php:25
+msgid "Вы не тратите время на общение с теми кандидатами, которые"
+msgstr "Жұмыс іздеуге мүдделі емес үміткерлермен сөйлесуге уақытты бос жұмсамайсыз."
+
+#: category-platforma.php:13 category-platforma.php:19 category-platforma.php:25
+msgid "не заинтересованы в трудоустройстве."
+msgstr "."
+
+#: category-platforma.php:30
+msgid "Административный персонал"
+msgstr "Әкімшілік қызметкерлер"
+
+#: category-platforma.php:31
+msgid "Продажи"
+msgstr "Сатылымдар"
+
+#: category-platforma.php:32
+msgid "Топ менеджмент"
+msgstr "Жоғары басшылық"
+
+#: category-platforma.php:33
+msgid "Банки/Инвестиции/Лизинг"
+msgstr "Банктер/Инвестициялар/Лизинг"
+
+#: category-platforma.php:34
+msgid "Бухгалтерия/Финансы/Аудит"
+msgstr "Бухгалтерия/Қаржы/Аудит"
+
+#: category-platforma.php:35
+msgid "Маркетинг/Реклама/PR"
+msgstr "Маркетинг/Жарнама/PR"
+
+#: category-platforma.php:36
+msgid "СМИ/Издательство"
+msgstr "СМИ/Басылымдар"
+
+#: category-platforma.php:37
+msgid "Кадры/Управление персоналом"
+msgstr "Кадрлар/Адам ресурстарын басқару"
+
+#: category-platforma.php:38
+msgid "Юриспруденция"
+msgstr "Құқықтану"
+
+#: category-platforma.php:39
+msgid "Логистика/Транспорт"
+msgstr "Логистика/ Көлік қызметі"
+
+#: category-platforma.php:47
+msgid "Подпишитесь на новые уникальные CV от Рекрутинговой компании Elite."
+msgstr "Elite Recruiting Company компаниясынан жаңа бірегей CV-ге жазылыңыз."
+
+#: category-platforma.php:48
+msgid "Только лучшие кандидаты Казахстана по всем отраслям!"
+msgstr "Барлық салалар бойынша Қазақстанның ең үздік кандидаттары! "
+
+#: category-platforma.php:49 templates/subscribe-news.php:5 templates/subscribe-vakansii.php:6
+msgid "Электронная почта"
+msgstr "Электрондық  пошта "
+
+#: category-platforma.php:52 templates/subscribe-news.php:8 templates/subscribe-vakansii.php:9
+msgid "ПОДПИСАТЬСЯ"
+msgstr "ЖАЗЫЛУ "
+
+#: footer.php:7 page-about-code-of-ethics.php:14 page-about-team.php:14
+msgid "о компании"
+msgstr "компания жайында"
+
+#: footer.php:9
+msgid "контакты"
+msgstr "байланыстар"
+
+#. Name of the template
+#: footer.php:13 header.php:42
+msgid "Услуги"
+msgstr "Қызметтер"
+
+#: footer.php:14 functions.php:224 functions.php:235 functions.php:246 functions.php:257 functions.php:268 functions.php:279 functions.php:290 functions.php:301 index.php:89 page-services.php:18 test-video.php:89
+msgid "Подбор персонала"
+msgstr "Қызметкерлерді іріктеу"
+
+#: footer.php:15 functions.php:213 functions.php:236 functions.php:247 functions.php:258 functions.php:269 functions.php:280 functions.php:291 functions.php:302 index.php:90 page-services.php:19 test-video.php:90
+msgid "Аутстаффинг"
+msgstr "Аутстаффинг"
+
+#: footer.php:16 functions.php:214 functions.php:225 functions.php:248 functions.php:259 functions.php:270 functions.php:281 functions.php:292 functions.php:303 index.php:91 page-services.php:20 test-video.php:91
+msgid "Обзоры рынка труда и заработных плат"
+msgstr "Еңбек нарығы мен жалақы туралы сауалнаманы шолу"
+
+#: footer.php:17 functions.php:215 functions.php:226 functions.php:237 functions.php:260 functions.php:271 functions.php:282 functions.php:293 functions.php:304 index.php:92 page-services.php:21 test-video.php:92
+msgid "Кадровое администрирование"
+msgstr "Кадрларды әкімшілік басқару"
+
+#: footer.php:18 functions.php:219 functions.php:230 functions.php:241 functions.php:252 functions.php:263 functions.php:274 functions.php:285 functions.php:307 index.php:96 page-services.php:25 test-video.php:96
+msgid "Расчет заработных плат"
+msgstr "Жалақыны есептеу"
+
+#: footer.php:21 functions.php:216 functions.php:227 functions.php:238 functions.php:249 functions.php:272 functions.php:283 functions.php:294 functions.php:305 index.php:93 page-services.php:22 test-video.php:93
+msgid "Аутстаффинг иностранного персонала"
+msgstr "Шетелдік  қызметкерлердің  Аутстаффингі"
+
+#: footer.php:22
+msgid "Помощь сокращенному персоналу"
+msgstr "Қысқартылған қызметкерлерге көмек"
+
+#: footer.php:23 functions.php:218 functions.php:229 functions.php:240 functions.php:251 functions.php:262 functions.php:273 functions.php:296 functions.php:308 index.php:95 page-services.php:24 test-video.php:95
+msgid "Аутсорсинг персонала"
+msgstr "Қызметкерлердің аутсорсингі"
+
+#: footer.php:24 functions.php:220 functions.php:231 functions.php:242 functions.php:253 functions.php:264 functions.php:275 functions.php:286 functions.php:297 index.php:97 page-services.php:26 test-video.php:97
+msgid "Обучение и развитие персонала"
+msgstr "Кадрларды дайындау және дамыту"
+
+#: footer.php:27 page-vacancy.php:15 subcategory-vakansii.php:15 single.php:10
+msgid "вакансии"
+msgstr "бос орындар"
+
+#: footer.php:28
+msgid "Platforma"
+msgstr ""
+
+#: footer.php:32
+msgid "Разработано в"
+msgstr "Дайындаған"
+
+#: footer.php:32
+msgid "ELITE"
+msgstr ""
+
+#: functions.php:217 functions.php:228 functions.php:239 functions.php:250 functions.php:261 functions.php:284 functions.php:295 functions.php:306 index.php:94 page-services.php:23 test-video.php:94
+msgid "Помощь сокращаемому персоналу"
+msgstr "Қысқартылатын қызметкерлерге көмек"
+
+#: header.php:40 page-about-code-of-ethics.php:15 page-about-team.php:15
+msgid "О компании"
+msgstr ""
+"Біз туралы\n"
+
+#: header.php:41
+msgid "Новости"
+msgstr "ЖАҢАЛЫҚТАР"
+
+#. Name of the template
+#: header.php:43
+msgid "Вакансии"
+msgstr "Бос Орындар"
+
+#: header.php:46 index.php:207 page-contacts.php:14 test-video.php:207
+msgid "Контакты"
+msgstr "Байланыстар"
+
+#. Name of the template
+msgid "home-page"
+msgstr ""
+
+#: index.php:21 test-video.php:21
+msgid "ПРОФЕССИОНАЛЬНОЕ"
+msgstr "ҚЫЗМЕТКЕРЛЕР"
+
+#: index.php:21 test-video.php:21
+msgid "УПРАВЛЕНИЕ ПЕРСОНАЛОМ"
+msgstr "ТОБЫН КӘСІБИ БАСҚАРУ"
+
+#: index.php:22 test-video.php:22
+msgid "надежная платформа"
+msgstr "Сіздің бизнесіңіздің"
+
+#: index.php:22 test-video.php:22
+msgid "вашего бизнеса"
+msgstr "сенімді платформасы."
+
+#: index.php:23 index.php:38 test-video.php:23 test-video.php:38
+msgid "подробнее о компании"
+msgstr "толығырақ"
+
+#: index.php:35 test-video.php:35
+msgid "НА РЫНКЕ"
+msgstr "Нарықта"
+
+#: index.php:37 test-video.php:37
+msgid "С успехом и радостью для Вас"
+msgstr "Сәттілік пен қуанышымызбен Сіздер үшін!"
+
+#: index.php:41 test-video.php:41
+msgid "Ваши интересы-превыше собственных"
+msgstr "Сәттілік пен қуанышымызбен Сіздер үшін!"
+
+#: index.php:42 test-video.php:42
+msgid "Для Вас, 24 часа в сутки/7 дней в неделю/365 дней в году"
+msgstr "Сіздер үшін,  тәулігіне 24 сағат/ аптасына 7 күн/ жылына 365 күн."
+
+#: index.php:43 test-video.php:43
+msgid "Разнообразие профессиональных решений"
+msgstr "Кәсіби шешімдердің сан-алуандығы."
+
+#: index.php:44 test-video.php:44
+msgid "Жесткие стандарты контроля качества"
+msgstr "Сапа бақылауының қатаң стандарты."
+
+#: index.php:45 test-video.php:45
+msgid "Широкая география возможностей"
+msgstr "Мүмкіндіктердің кең көлемді географиясы."
+
+#: index.php:46 test-video.php:46
+msgid "Высокая культура партнерства и этики бизнеса"
+msgstr "Бизнес этикасы мен серіктестіктің  биік мәдениеті."
+
+#: index.php:54 test-video.php:54
+msgid "Наши награды"
+msgstr "БІЗДІҢ МАРАПАТТАР"
+
+#: index.php:55 test-video.php:55
+msgid "Национальный бизнес-рейтинг в Республики Казахстан "
+msgstr "Қазақстан Республикасындағы Ұлттық  бизнес-рейтинг"
+
+#: index.php:55 test-video.php:55
+msgid "«Лидер отрасли»"
+msgstr "«Сала көшбасшысы»"
+
+#: index.php:59 test-video.php:59
+msgid "Бронза"
+msgstr "Қола"
+
+#: index.php:60 test-video.php:60
+msgid "2013 год"
+msgstr "2013 жыл"
+
+#: index.php:66 test-video.php:66
+msgid "Серебро"
+msgstr "Күміс"
+
+#: index.php:67 test-video.php:67
+msgid "2014 год"
+msgstr "2014 жыл"
+
+#: index.php:73 test-video.php:73
+msgid "Золото"
+msgstr "Алтын"
+
+#: index.php:74
+msgid "2015-2018 год"
+msgstr "2015-2018 жыл"
+
+#: index.php:84 page-services-single.php:13 page-services.php:15 test-video.php:84
+msgid "услуги"
+msgstr "Қызметтер"
+
+#: index.php:85 test-video.php:85
+msgid "Нашими консультантами реализуются проекты для крупнейших казахстанских и международных компаний в различных отраслях экономики."
+msgstr "Біздің консультанттар экономиканың түрлі салаларында ірі қазақстандық және халықаралық компаниялар үшін жобаларды жүзеге асырады."
+
+#: index.php:86 test-video.php:86
+msgid "больше об услугах"
+msgstr "Қызметтер туралы толығырақ"
+
+#: index.php:128 category.php:19 test-video.php:128
+msgid "база вакансий /"
+msgstr "Бос орындар базасы /"
+
+#: index.php:128 category.php:19 test-video.php:128
+msgid "база резюме"
+msgstr "түйіндемелер базасы "
+
+#: index.php:129 page-vacancy.php:21 category.php:20 test-video.php:129
+msgid "Находясь в поиске работы, вы, безусловно, нуждаетесь в помощи профессионала. Сотрудничество с рекрутерами Elite поможет Вам быстро сориентироваться на рынке труда, правильно оценить свои силы и выбрать тот путь, который больше всего соответствует данному этапу развития вашей карьеры."
+msgstr "Жұмыс іздеуде, сіздер, сөзсіз, кәсіби маман көмегіне мұқтаж боласыздар. Элит қатысушыларымен әріптестік байланыс орнату, сіздерге еңбек нарығында жылдам бағдар алуға және өз күшіңізді дұрыс бағалап, сіздің карьераңыздың даму кезеңіне барынша сәйкес келетін жолды таңдауға көмектеседі.."
+
+#: index.php:130 category.php:21 test-video.php:130
+msgid "Все кандидаты, представленные у нас находятся в активном поиске работы. Вы не тратите время на общение, с теми кандидатами, которые не заинтересованы в трудоустройстве."
+msgstr "Бізде ұсынылған  барлық үміткерлер,  жұмыстарды белсенді іздестіруде.  Жұмыс іздеуге мүдделі емес үміткерлермен сөйлесуге уақытты бос жұмсамайсыз."
+
+#: index.php:139 category.php:30 test-video.php:139
+msgid "РАЗМЕСТИТЬ РЕЗЮМЕ"
+msgstr "ТҮЙІНДЕМЕНІ  ОРНАТУ"
+
+#: index.php:148 test-video.php:148
+msgid "Подписаться на новости"
+msgstr "ЖАҢАЛЫҚТАРҒА ЖАЗЫЛУ"
+
+#: index.php:150 test-video.php:150
+msgid "все новости"
+msgstr "БАРЛЫҚ ЖАҢАЛЫҚТАР"
+
+#: index.php:172 test-video.php:172
+msgid "Команда"
+msgstr ""
+
+#: index.php:176 test-video.php:176
+msgid "Олег Парахин"
+msgstr ""
+
+#: index.php:177 test-video.php:177
+msgid "владелец"
+msgstr "ИЕСІ"
+
+#: index.php:178 test-video.php:178
+msgid "Владелец и генеральный директор компании Elite. Член координационного совета Ассоциации консультантов по подбору персонала (АКПП). Имеет степень Магистра делового администрирования."
+msgstr "Олег Парахин  МЕНШІК  ИЕСІ  және  Elite компаниясының бас директоры. АКПП Қызметкерлерді жинау ассоцияциасының  кеңесшілерінің Координациялық (үйлестіру) кеңесінің мүшесі."
+
+#: index.php:178 test-video.php:178
+msgid "Успешно защитил первую в РК диссертацию на тему: «Рекрутинговые услуги в казахстанском бизнесе: развитие рынка и стратегии поставщиков»."
+msgstr "Іскерлік әкімшілік ету магистр дәрежесі бар. «Қазақстандық бизнесте рекрутингтік қызмет көрсету: нарықты дамыту және жеткізушілердің стратегиясы» тақырыбында ҚР бірінші кандидаттық диссертациясын сәтті қорғады."
+
+#: index.php:188 test-video.php:188
+msgid "Отзывы"
+msgstr "Пікірлер"
+
+#: index.php:193 test-video.php:193
+msgid "По результатам рейтинга, проведенного Национальным бизнес-рейтингом Республики Казахстан, Компания Elite признана «Лидером отрасли 2016»."
+msgstr "Қазақстан Республикасының Ұлттық бизнестің рейтингісінің өткізген рейтингктің қорытындысы бойынша Elite компаниясы  «2016 жылғы Салалық көшбасшы» деп танылды."
+
+#: index.php:198 test-video.php:198
+msgid "Компания Elite - одна из первых кадровых компаний на рынке Республики Казахстан, созданная в 1997 году, как структурное подразделение «Центрально-азиатского фонда системных исследований»"
+msgstr "Elite компаниясы  - 1997 жылы құрылған, Орталық Азиядағы Жүйелік зерттеулер қорының құрылымдық бөлімшесі ретінде Қазақстан Республикасының нарығындағы алғашқы кадрлық компаниялардың бірі болып табылады."
+
+#: index.php:208 page-contacts.php:15 test-video.php:208
+msgid "Офисы Elite предоставлены в Алматы, Астане, Актау и Актобе"
+msgstr "Elite компаниясының  кеңселері   Алматы, Астана, Ақтау және Ақтөбе қалаларында"
+
+#. Name of the template
+msgid "About code of ethics"
+msgstr ""
+
+#: page-about-code-of-ethics.php:15 page-about-team.php:15
+msgid "Этический кодекс"
+msgstr "Этика кодексі"
+
+#: page-about-code-of-ethics.php:28
+msgid "Присоединиться"
+msgstr "Қазір қосылыңыз"
+
+#: page-about-code-of-ethics.php:33 page-about-team.php:31 page-about-team.php:33
+msgid "Также можете скачать презентацию"
+msgstr "Сондай-ақ, презентацияны жүктей аласыз"
+
+#: page-about-code-of-ethics.php:33 page-about-team.php:31 page-about-team.php:33
+msgid "Мб"
+msgstr ""
+
+#: page-about-code-of-ethics.php:34 page-about-team.php:36
+msgid "Ознакомьтесь с нашим профессионально-этический кодексом консультантов по подбору персонала"
+msgstr "Жұмысқа орналасу бойынша кеңесшілердің кәсіби және этикалық кодексін оқыңыз"
+
+#. Name of the template
+msgid "About team"
+msgstr ""
+
+#. Name of the template
+msgid "Contacts"
+msgstr ""
+
+#. Name of the template
+msgid "Резюме"
+msgstr "қысқаша мазмұндама"
+
+#: page-resume.php:16
+msgid "Загрузка резюме"
+msgstr "ТҮЙІНДЕМЕНІ  ОРНАТУ"
+
+#. Name of the template
+msgid "Услуги (запись)"
+msgstr ""
+
+#: page-vacancy.php:20
+msgid "Сотрудничество с Elite в построении карьеры"
+msgstr "Мансапты құруда Элитамен кәсіпкерлік ынтымақтастық жасау. "
+
+#: page-vacancy.php:22
+msgid "Большое значение мы придаем тому, чтобы взаимодействие с Elite было максимально удобным и эффективным как для компаний — наших клиентов, так и для тех, кто заинтересован в поиске или смене работы."
+msgstr " Біз Elite компаниясымен өзара іс-қимыл компанияларға - біздің клиенттерімізге және жұмыс орындарын табу немесе өзгертуге мүдделі адамдар үшін ыңғайлы және тиімді болатынына үлкен мән береміз."
+
+#: page-vacancy.php:26
+msgid "Зачем откладывать?"
+msgstr "Неге кейінге қалдырасыз?"
+
+#: page-vacancy.php:27
+msgid "Отправьте нам свое резюме, и оно будет использоваться в первоочередном порядке при поиске кандидатов соответствующих Вашему профилю."
+msgstr "Сіз, өз  түйіндемеңізді жіберіңіз, ол сіздің профиліңізге сай үміткерлерді іздеу кезінде басымдық ретінде пайдаланылады."
+
+#: page-vacancy.php:30
+msgid "ЗАГРУЗИТЬ РЕЗЮМЕ"
+msgstr "ТҮЙІНДЕМЕНІ  ОРНАТУ"
+
+#: page-vacancy.php:31
+msgid "Максимальный размер 10MB. Только"
+msgstr "Ең үлкен өлшемі - 10 Мб. Тек қана"
+
+#: page-vacancy.php:35
+msgid "Все услуги соискателям в нашей компании предоставляются бесплатно."
+msgstr " Біздің компаниямыздың үміткерлеріне барлық қызметтер ақысыз беріледі."
+
+#: page-vacancy.php:35
+msgid "Для того чтобы Elite имел возможность рассматривать вашу кандидатуру на открывающиеся позиции, вам достаточно однажды прислать резюме по адресу электронной почты нашей компании. Просим вас также регулярно сообщать нам об изменениях в вашей карьере или контактной информации. Наши консультанты свяжутся с вами, если в портфеле заказов Elite появится позиция, соответствующая вашему опыту, планам и ожиданиям."
+msgstr "Elite компаниясының  позицияларды ашып,  кандидатураңызды қарастыра алу үшін сізге біздің компаниямыздың электрондық пошта мекенжайына түйіндеме жіберуіңіз  керек. Сондай-ақ, мансаптағы немесе байланыс ақпаратындағы өзгерістер туралы бізге үнемі хабарлап отыруыңызды  сұраймыз.  Сіздің тәжірибеңіз бен жоспарларыңызға және күтулеріңізге сәйкес Elite тапсырыс кітабында орын алатын болсаңыз, біздің кеңесшілеріміз сізге хабарласады. "
+
+#: page-vacancy.php:35
+msgid "Получение от Вас персональных данных отраженных в резюме, рассматривается нами как Ваше согласие на дальнейшую их бессрочную обработку, хранение и неограниченную передачу третьим лицам с целью содействия в трудоустройстве."
+msgstr "Түйіндемеде көрсетілген жеке деректеріңізді алу бізбен жұмысқа орналасуға жәрдемдесу мақсатында үшінші тұлғаларға шексіз өңдеу, сақтау және шектеусіз беру туралы келісіміңіз ретінде қарастырылады. "
+
+#. Name of the template
+msgid "Категории вакансий"
+msgstr "Жұмыс санаттары"
+
+#. Name of the template
+msgid "search"
+msgstr "поиск"
+
+#. Name of the template
+msgid "Privacy & Cookies Policy"
+msgstr ""
+
+#: Privacy & Cookies Policy.php:13
+msgid "Cookie файлы"
+msgstr ""
+
+#: single.php:20
+msgid "откликнуться"
+msgstr "жауап беру"
+
+#. Name of the template
+msgid "test-video"
+msgstr ""
+
+#: test-video.php:74
+msgid "2015-2017 год"
+msgstr "2015-2017 жыл"
+
+#: templates/contacts-form.php:2
+msgid "Напишите нам"
+msgstr "Бізбен байланысыңыздар "
+
+#: templates/contacts-form.php:4
+msgid "Ваше имя"
+msgstr "Сіздің атыңыз"
+
+#: templates/contacts-form.php:6
+msgid "Сообщение"
+msgstr "Хабарлама"
+
+#: templates/contacts-form.php:7
+msgid "Отправить"
+msgstr "Жіберіңіз"
+
+#: templates/contacts.php:3
+msgid "Алматы"
+msgstr ""
+
+#: templates/contacts.php:3
+msgid "Адрес: 050013, г. Алматы, проспект Абая, дом 20/5"
+msgstr "Алматы Мекен жайы: 050013, Алматы қ., Абай даңғылы, 20/5 үй"
+
+#: templates/contacts.php:4
+msgid "Астана"
+msgstr ""
+
+#: templates/contacts.php:4
+msgid "Адрес: район Есиль, ул. Ханов Керея и Жанибека, д.18 офис 201"
+msgstr "Мекен жайы: Астана, Есиль ауданы,  Ханов Керея мен Жанибек көш., 18үй, офис 201"
+
+#: templates/contacts.php:8
+msgid "Телефон"
+msgstr ""
+
+#: templates/contacts.php:16
+msgid "Мы работаем"
+msgstr "Біз жұмыс істейміз"
+
+#: templates/contacts.php:16
+msgid "с понедельника по пятницу"
+msgstr ""
+"Дүйсенбіден жұмаға дейін\n"
+
+#: templates/subscribe-news.php:4
+msgid "Подпишитесь на новости"
+msgstr "Жаңалықтарға жазылыңыз"
+
+#: templates/subscribe-vakansii.php:4
+msgid "Подпишитесь на новые вакансии от Рекрутинговой компании Elite."
+msgstr "Elite Recruiting компаниясынан жаңа бос лауазымдарға жазылыңыз."
+
+#: templates/subscribe-vakansii.php:5
+msgid "Только лучшие компании Казахстана по всем отраслям!"
+msgstr "Барлық салалары бойынша Қазақстанның ең үздік компаниялар ғана!"
+
+#. Name of the theme
+#. Description of the theme
+msgid "Elite Theme"
+msgstr ""
+
+#. Author of the theme
+msgid "the Elite team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wordpress.org/"
+msgstr ""
+
+msgid "Образование"
+msgstr "қалыптастыру"
+
+msgid "Добыча сырья"
+msgstr "Шикізатты өндіру"
+
+msgid "Производство"
+msgstr "Өндіріс"
+
+msgid "Технические"
+msgstr "Техникалық"
+
+msgid "Работа для молодых специалистов"
+msgstr "Жас мамандарға арналған жұмыс"
+
+msgid "Строительство"
+msgstr "Құрылыс"
+
+msgid "Управление персоналом/HR"
+msgstr "ТОБЫН КӘСІБИ БАСҚАРУ/HR"
+
+msgid "Медицина, фармацевтика"
+msgstr "Медицинамен, фармацевтика"
+
+msgid "IT/Интернет/Телеком"
+msgstr "IT/Интернет/Телеком"
+
+msgid "ТОП-Менеджмент"
+msgstr "Жоғары басшылық"
+
+msgid "Маркетинг/ Реклама/PR"
+msgstr "Маркетинг/ Жарнама/ PR"
